@@ -1,5 +1,7 @@
 # HolyJ
 
+![Demo](assets/screenshot.png)
+
 The one and only Minimal Java Interpreter written fully in HolyC!
 
 This program has been written within a single week  
